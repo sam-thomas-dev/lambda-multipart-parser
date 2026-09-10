@@ -1,4 +1,4 @@
-# lambda-multipart-parser
+# Changed heading text
 ```
 npm install lambda-multipart-parser --save
 ```
